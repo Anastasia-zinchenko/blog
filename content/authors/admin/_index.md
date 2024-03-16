@@ -1,51 +1,45 @@
 ---
 # Display name
-title: 吳健雄
+title: Зинченко Анастасия Романовна
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Зинченко Анастасия Романовна
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Анастасия 
+last_name: Зинченко
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка ФФМиЕН Российского университета дружбы народов
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Бизнес - информатик в РУДН.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Прогулки
+  - Программирование
+  - Чтение книг
+  - Баскетбол
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+    - course : Среднее общее образование. МБОУ СОШ №2.
+    
+    
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -120,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Зинченко Анастасия - студентка Российского университета дружбы народов, обучающаяся на факультете физико-математических и естественных наук на направлении "Бизнес - информатика". Создала этот сайт для размещения информации о своих достижениях и проектах.
 {style="text-align: justify;"}
